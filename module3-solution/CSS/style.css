@@ -25,7 +25,7 @@ section {
     background-color: gray;
     border-radius: 0.5rem;
 	width: 100%;
-	height: 250px;
+	height: 200px;
 	color: black;
 	position: relative;
     overflow: auto;
@@ -42,7 +42,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color:#E9967A;
+	background-color: hsl(1, 42%, 72%);
 }
 
 #beef {
@@ -56,7 +56,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #8B0000;
+	background-color: #C14643;
 }
 
 #sushi {
@@ -70,7 +70,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FF8C00;
+	background-color: #E5D198;
 }
 
 p {
